@@ -123,8 +123,8 @@ SELECT @@SERVERNAME AS ServerName;
 
 For support or feedback, reach out to:
 
-| Name                      | Student ID | Email Address                                                         |
-| ------------------------- | ---------- | --------------------------------------------------------------------- |
-| Jerry Jeremiah Rao        | 1201101725 | [1201101725@student.mmu.edu.my](mailto:1201101725@student.mmu.edu.my) |
-| Sashvin Nair Suresh Kumar | 1211103437 | [1211103437@student.mmu.edu.my](mailto:1211103437@student.mmu.edu.my) |
-| 
+| Name                                | Student ID | Email Address                                                         |
+| ------------------------------------| ---------- | --------------------------------------------------------------------- |
+| Jerry Jeremiah Rao                  | 1201101725 | [1201101725@student.mmu.edu.my](mailto:1201101725@student.mmu.edu.my) |
+| Sashvin Nair Suresh Kumar           | 1211103437 | [1211103437@student.mmu.edu.my](mailto:1211103437@student.mmu.edu.my) |
+| Surenthiran A/L Shamosamugam Nathan | 1211104053 | [1211104053@student.mmu.edu.my](mailto:1211104053@student.mmu.edu.my) |
